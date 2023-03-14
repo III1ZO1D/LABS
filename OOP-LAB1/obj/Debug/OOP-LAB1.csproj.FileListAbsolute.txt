@@ -1,0 +1,8 @@
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\bin\Debug\OOP-LAB1.exe.config
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\bin\Debug\OOP-LAB1.exe
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\bin\Debug\OOP-LAB1.pdb
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\obj\Debug\OOP-LAB1.csproj.AssemblyReference.cache
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\obj\Debug\OOP-LAB1.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\obj\Debug\OOP-LAB1.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\obj\Debug\OOP-LAB1.exe
+D:\Программирование\C#\4 семестр\ООП\OOP-LAB1\OOP-LAB1\obj\Debug\OOP-LAB1.pdb
